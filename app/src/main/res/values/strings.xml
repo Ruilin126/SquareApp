@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SquareApp</string>
+    <string name="max">Max: %1$d</string>
+    <string name="ave">Average: %1$.02f</string>
+    <string name="hello">Hello, %1$s</string>
+</resources>
